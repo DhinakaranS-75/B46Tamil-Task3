@@ -1,0 +1,43 @@
+{
+    "name": "Dhinakaran",
+    "email": "dhinakaran75493@gmail.com",
+    "phone": "9994308433",
+    "address": {
+      "street": "1.150 MGR NAGAR",
+      "city": "kpm",
+      "state": "TamilNadu",
+      "zip": "638183",
+      "country": "India"
+    },
+    "summary": "I am a full-stack web developer iam fresh building scalable web applications using JavaScript.",
+    "experience": [
+      {
+        "position": "Full-Stack Web Developer",
+        "company": "ABC Company",
+        "startDate": "0",
+        "endDate": "0",
+        "description": "Developed and maintained multiple web applications using HTML, CSS, JavaScript."
+      },
+      {
+        "position": "Front-End Developer",
+        "company": "ABC Inc.",
+        "startDate": "0",
+        "endDate": "0",
+        "description": "Worked on the front-end of multiple web applications using HTML, CSS, JavaScript . Implemented responsive design and improved accessibility of the applications."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Computer Technology",
+        "institution": "Erode",
+        "startDate": "2016-04-01",
+        "endDate": "2018-06-01"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  }
+  
