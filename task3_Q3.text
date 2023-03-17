@@ -1,0 +1,25 @@
+3rd Question
+
+    Read about the difference between window, screen, and document in javascript
+
+Answer
+
+    Window:	
+        The top-level browsing context that contains the `document` object.	
+        window.innerWidth, window.innerHeight, window.document, window.location, window.history.
+
+    screen:
+        An object that represents the properties of the user's screen.	
+        screen.width, screen.height, screen.availWidth, screen.availHeight, screen.colorDepth, screen.pixelDepth, etc.
+
+    document:	
+    An object that represents the HTML content of a web page.	
+    document.documentElement, document.head, document.body, document.title, document.URL, document.forms, document.images.
+
+
+4th Question
+
+    codekata practice done
+
+Answer:
+    codekata practice done
